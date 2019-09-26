@@ -2,4 +2,4 @@
 
 Breeze Snow & Dark
 
-![breeze-preview](./static/breeze-preview.png)
+![breeze-preview](./assets/breeze-preview.png)
